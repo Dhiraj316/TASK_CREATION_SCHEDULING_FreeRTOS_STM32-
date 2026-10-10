@@ -17,7 +17,7 @@ Debug: Serial Wire
 
 Enable System Wake-Up
 
-Timebase Source: SysTick
+Timebase Source: Tim3
 
 GPIO: PA5, PA6, and PA7 configured as GPIO_Output.
 
